@@ -1,3 +1,12 @@
+// Zadanie 1. Konto użytkownika
+
+// Przed odejściem, programista popsuł kod źródłowy zarządzania kontami użytkowników naszego serwisu dostawy jedzenia.
+//  Przeprowadź refaktoryzację metod obiektu customer, dodając brakujące this przy odwołaniach do właściwości obiektu.
+
+
+
+
+
 const customer = {
   username: "Mango",
   balance: 24000,
